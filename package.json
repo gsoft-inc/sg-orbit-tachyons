@@ -1,6 +1,6 @@
 {
     "name": "@orbit-ui/tachyons",
-    "version": "7.1.0",
+    "version": "8.0.0",
     "description": "Custom Tachyons for Sharegate Orbit UI",
     "repository": "https://github.com/gsoft-inc/sg-orbit.git",
     "license": "Apache-2.0",
@@ -39,7 +39,7 @@
         "watch": "watch \"yarn build-watch\" ./src/",
         "clean": "yarn clear-dist",
         "prepublishOnly": "yarn copy-license-to-dist",
-        "publish": "yarn np --contents",
+        "publish": "yarn np --contents --preview",
         "clear-dist": "node scripts/clear-dist",
         "create-dist": "node scripts/create-dist",
         "copy-to-dist": "node scripts/copy-to-dist"
