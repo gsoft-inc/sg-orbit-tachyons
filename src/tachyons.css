@@ -1,3 +1,4 @@
+@import "./normalize.css";
 @import "./core/index.css";
 @import "./brand/index.css";
 @import "./ui/index.css";
