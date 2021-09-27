@@ -1,0 +1,13 @@
+.shadow-100 { box-shadow: var( --o-ui-shadow-100 ); }
+.shadow-200 { box-shadow: var( --o-ui-shadow-200 ); }
+.shadow-300 { box-shadow: var( --o-ui-shadow-300 ); }
+.shadow-400 { box-shadow: var( --o-ui-shadow-400 ); }
+.hover-shadow-100:hover { box-shadow: var( --o-ui-shadow-100 ); }
+.hover-shadow-200:hover { box-shadow: var( --o-ui-shadow-200 ); }
+.hover-shadow-300:hover { box-shadow: var( --o-ui-shadow-300 ); }
+.hover-shadow-400:hover { box-shadow: var( --o-ui-shadow-400 ); }
+.focus-shadow-100:focus { box-shadow: var( --o-ui-shadow-100 ); }
+.focus-shadow-200:focus { box-shadow: var( --o-ui-shadow-200 ); }
+.focus-shadow-300:focus { box-shadow: var( --o-ui-shadow-300 ); }
+.focus-shadow-400:focus { box-shadow: var( --o-ui-shadow-400 ); }
+
