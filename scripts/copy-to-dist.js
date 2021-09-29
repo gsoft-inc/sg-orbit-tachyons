@@ -2,11 +2,9 @@ const chalk = require("chalk");
 const shell = require("shelljs");
 
 const DIST_PATH = "dist";
+const FONTS_PATH = "src/fonts";
 
 shell.cp("-f", "package.json", "README.md", DIST_PATH);
+shell.cp("-f", `${FONTS_PATH}/*.woff2`, `${DIST_PATH}`);
 
-// Ensure that the "main" file configured in package.json is available.
-shell.mkdir(`${DIST_PATH}/${DIST_PATH}`);
-shell.cp("-Rf", `${DIST_PATH}/*.css`, `${DIST_PATH}/${DIST_PATH}`);
-
-console.log(chalk.green("success"), " tachyons copied to dist folder.");
+console.log(chalk.green("success"), " files copied to dist folder.");

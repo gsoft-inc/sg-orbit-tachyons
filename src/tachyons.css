@@ -1,6 +1,3 @@
+@import "./fonts/index.css";
 @import "./normalize.css";
-@import "./core/index.css";
-@import "./brand/index.css";
-@import "./ui/index.css";
-@import "./primary/index.css";
-@import "./roles/index.css";
+@import "./tachyons/index.css";
