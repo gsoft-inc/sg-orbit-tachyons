@@ -36,13 +36,18 @@ Create the theme variables at the root of your React application:
 // index.js
 
 import { createThemeVars, ApricotTheme } from "@orbit-ui/styles";
+import { ThemeProvider } from "@orbit-ui/react"; 
 import { render } from "react-dom";
+import App from "./App";
 
 createThemeVars([ApricotTheme]);
 
 render(
-    ...
-)
+    <ThemeProvider colorScheme="light">
+        <App />
+    </ThemeProvider>,
+    document.getElementById("root")
+);
 ```
 
 ## Maintainers
