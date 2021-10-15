@@ -11,23 +11,14 @@ Includes:
 ## Installation
 
 ```bash
-npm i -D @orbit-ui/tachyons
+npm i -D @orbit-ui/react-components @orbit-ui/tachyons
 ```
 
 Import the styles in your root stylesheet:
 
 ```css
+@import "~@orbit-ui/react-components/index.css";
 @import "~@orbit-ui/tachyons";
-```
-
-Apply the font:
-
-```css
-html,
-body {
-    font-family: "TT Interphases Variable", Arial, Helvetica, sans-serif;
-    font-size: 16px;
-}
 ```
 
 Create the theme variables at the root of your React application:
@@ -35,8 +26,7 @@ Create the theme variables at the root of your React application:
 ```js
 // index.js
 
-import { createThemeVars, ApricotTheme } from "@orbit-ui/styles";
-import { ThemeProvider } from "@orbit-ui/react"; 
+import { createThemeVars, ApricotTheme, ThemeProvider } from "@orbit-ui/react-components";
 import { render } from "react-dom";
 import App from "./App";
 
