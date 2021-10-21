@@ -17,7 +17,7 @@ npm i -D @orbit-ui/react-components @orbit-ui/tachyons
 Import the styles in your root stylesheet:
 
 ```css
-@import "~@orbit-ui/react-components/index.css";
+@import "~@sharegate/orbit-ui/index.css";
 @import "~@orbit-ui/tachyons";
 ```
 
@@ -26,7 +26,7 @@ Create the theme variables at the root of your React application:
 ```js
 // index.js
 
-import { createThemeVars, ApricotTheme, ThemeProvider } from "@orbit-ui/react-components";
+import { createThemeVars, ApricotTheme, ThemeProvider } from "@sharegate/orbit-ui";
 import { render } from "react-dom";
 import App from "./App";
 
