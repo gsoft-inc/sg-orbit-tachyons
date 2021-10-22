@@ -5,7 +5,6 @@ ShareGate old styling stack using Tachyons atomic CSS library.
 Includes:
 
 - CSS normalize
-- ShareGate fonts
 - Customized version of Tachyons
 
 ## Installation

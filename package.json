@@ -1,16 +1,13 @@
 {
     "name": "@orbit-ui/tachyons",
     "version": "7.1.0",
-    "description": "Custom Tachyons for Sharegate Orbit UI",
+    "description": "Custom Tachyons for Sharegate Orbit",
     "repository": "https://github.com/gsoft-inc/sg-orbit.git",
     "license": "Apache-2.0",
     "main": "dist/tachyons.css",
     "style": "dist/tachyons.css",
     "publishConfig": {
         "access": "public"
-    },
-    "peerDependencies": {
-        "@orbit-ui/styles": "*"
     },
     "devDependencies": {
         "chalk": "4.1.2",
