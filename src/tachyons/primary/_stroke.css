@@ -1,119 +1,119 @@
-.stroke-primary-50 {
-    stroke: var(--o-ui-primary-50);
+.stroke-primary-1 {
+    stroke: var(--o-ui-primary-1);
 }
 
-.stroke-primary-100 {
-    stroke: var(--o-ui-primary-100);
+.stroke-primary-2 {
+    stroke: var(--o-ui-primary-2);
 }
 
-.stroke-primary-200 {
-    stroke: var(--o-ui-primary-200);
+.stroke-primary-3 {
+    stroke: var(--o-ui-primary-3);
 }
 
-.stroke-primary-300 {
-    stroke: var(--o-ui-primary-300);
+.stroke-primary-4 {
+    stroke: var(--o-ui-primary-4);
 }
 
-.stroke-primary-400 {
-    stroke: var(--o-ui-primary-400);
+.stroke-primary-5 {
+    stroke: var(--o-ui-primary-5);
 }
 
-.stroke-primary-500 {
-    stroke: var(--o-ui-primary-500);
+.stroke-primary-6 {
+    stroke: var(--o-ui-primary-6);
 }
 
-.stroke-primary-600 {
-    stroke: var(--o-ui-primary-600);
+.stroke-primary-7 {
+    stroke: var(--o-ui-primary-7);
 }
 
-.stroke-primary-700 {
-    stroke: var(--o-ui-primary-700);
+.stroke-primary-8 {
+    stroke: var(--o-ui-primary-8);
 }
 
-.stroke-primary-800 {
-    stroke: var(--o-ui-primary-800);
+.stroke-primary-9 {
+    stroke: var(--o-ui-primary-9);
 }
 
-.stroke-primary-900 {
-    stroke: var(--o-ui-primary-900);
+.stroke-primary-10 {
+    stroke: var(--o-ui-primary-10);
 }
 
-.hover-stroke-primary-50:hover {
-    stroke: var(--o-ui-primary-50);
+.hover-stroke-primary-1:hover {
+    stroke: var(--o-ui-primary-1);
 }
 
-.hover-stroke-primary-100:hover {
-    stroke: var(--o-ui-primary-100);
+.hover-stroke-primary-2:hover {
+    stroke: var(--o-ui-primary-2);
 }
 
-.hover-stroke-primary-200:hover {
-    stroke: var(--o-ui-primary-200);
+.hover-stroke-primary-3:hover {
+    stroke: var(--o-ui-primary-3);
 }
 
-.hover-stroke-primary-300:hover {
-    stroke: var(--o-ui-primary-300);
+.hover-stroke-primary-4:hover {
+    stroke: var(--o-ui-primary-4);
 }
 
-.hover-stroke-primary-400:hover {
-    stroke: var(--o-ui-primary-400);
+.hover-stroke-primary-5:hover {
+    stroke: var(--o-ui-primary-5);
 }
 
-.hover-stroke-primary-500:hover {
-    stroke: var(--o-ui-primary-500);
+.hover-stroke-primary-6:hover {
+    stroke: var(--o-ui-primary-6);
 }
 
-.hover-stroke-primary-600:hover {
-    stroke: var(--o-ui-primary-600);
+.hover-stroke-primary-7:hover {
+    stroke: var(--o-ui-primary-7);
 }
 
-.hover-stroke-primary-700:hover {
-    stroke: var(--o-ui-primary-700);
+.hover-stroke-primary-8:hover {
+    stroke: var(--o-ui-primary-8);
 }
 
-.hover-stroke-primary-800:hover {
-    stroke: var(--o-ui-primary-800);
+.hover-stroke-primary-9:hover {
+    stroke: var(--o-ui-primary-9);
 }
 
-.hover-stroke-primary-900:hover {
-    stroke: var(--o-ui-primary-900);
+.hover-stroke-primary-10:hover {
+    stroke: var(--o-ui-primary-10);
 }
 
-.focus-stroke-primary-50:focus {
-    stroke: var(--o-ui-primary-50);
+.focus-stroke-primary-1:focus {
+    stroke: var(--o-ui-primary-1);
 }
 
-.focus-stroke-primary-100:focus {
-    stroke: var(--o-ui-primary-100);
+.focus-stroke-primary-2:focus {
+    stroke: var(--o-ui-primary-2);
 }
 
-.focus-stroke-primary-200:focus {
-    stroke: var(--o-ui-primary-200);
+.focus-stroke-primary-3:focus {
+    stroke: var(--o-ui-primary-3);
 }
 
-.focus-stroke-primary-300:focus {
-    stroke: var(--o-ui-primary-300);
+.focus-stroke-primary-4:focus {
+    stroke: var(--o-ui-primary-4);
 }
 
-.focus-stroke-primary-400:focus {
-    stroke: var(--o-ui-primary-400);
+.focus-stroke-primary-5:focus {
+    stroke: var(--o-ui-primary-5);
 }
 
-.focus-stroke-primary-500:focus {
-    stroke: var(--o-ui-primary-500);
+.focus-stroke-primary-6:focus {
+    stroke: var(--o-ui-primary-6);
 }
 
-.focus-stroke-primary-600:focus {
-    stroke: var(--o-ui-primary-600);
+.focus-stroke-primary-7:focus {
+    stroke: var(--o-ui-primary-7);
 }
 
-.focus-stroke-primary-700:focus {
-    stroke: var(--o-ui-primary-700);
+.focus-stroke-primary-8:focus {
+    stroke: var(--o-ui-primary-8);
 }
 
-.focus-stroke-primary-800:focus {
-    stroke: var(--o-ui-primary-800);
+.focus-stroke-primary-9:focus {
+    stroke: var(--o-ui-primary-9);
 }
 
-.focus-stroke-primary-900:focus {
-    stroke: var(--o-ui-primary-900);
+.focus-stroke-primary-10:focus {
+    stroke: var(--o-ui-primary-10);
 }
